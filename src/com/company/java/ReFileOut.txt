@@ -1,0 +1,1 @@
+A byte stream is use by the javainput and output streams which are abstractclasses, to read and write single bytes of datafrom a source(InputStream), to a destination(OutputStream) 

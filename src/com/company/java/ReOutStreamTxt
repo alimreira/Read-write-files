@@ -1,0 +1,1 @@
+The byte stream, is also used by the outputStream,to write single byte of data, from a programinto a destination.

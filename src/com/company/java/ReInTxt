@@ -1,0 +1,4 @@
+Byte Stream, is not an InputStream or OutputStream
+subclass. Instead, it is used by the inputStream
+to read single byte
+of data from a source into a destination

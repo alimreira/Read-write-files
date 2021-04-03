@@ -1,0 +1,7 @@
+The byte Stream, is not a subclass of the java
+file input and output Stream.Instead, it is used
+by the input and output streams to read and write
+single bytes of data from source to destination
+respectively.
+However, the fileInputStream , is a subclass of
+the inputStream sub class
